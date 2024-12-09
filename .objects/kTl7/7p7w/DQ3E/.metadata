@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome List of dams and reservoirs in Kerala ",
+  "Type": "Screen",
+  "Id": "DQ3EamK300GpM_l52LbC9A",
+  "Reference": "tUaoYSevPUCGZ0c47SrcZw/DQ3EamK300GpM_l52LbC9A",
+  "ParentRef": "tUaoYSevPUCGZ0c47SrcZw/7p7wSnPAYkWXOVE5gIXOHQ",
+  "Created": "2024-12-06T11:58:33.5496429Z",
+  "Updated": "2024-12-06T11:58:33.5496429Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
